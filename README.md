@@ -8,11 +8,6 @@
 ## 👉 About Me:
 
 
-
-
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning DevOps tools & Automation
 - 🤔 I’m currently in search of remote jobs and opportunities
 - 💬 Curious about making new things that makes me happy
