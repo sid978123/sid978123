@@ -9,7 +9,7 @@
 ## 👉 About Me:
 
 
-<!--
+
 **sid978123/sid978123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m currently in search of remote jobs and opportunities
 - 💬 Curious about making new things that makes me happy
 - ⚡ Fun fact: I love learning new Technologies 
--->
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-572ab236a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
