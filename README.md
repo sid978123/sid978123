@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning DevOps tools & Automation
-- 🤔 I’m currently in search of remote jobs and opportunities
+- ✨ I’m currently in search of remote jobs and opportunities
 - 💬 Curious about making new things that makes me happy
 - ⚡ Fun fact: I love learning new Technologies 
 
