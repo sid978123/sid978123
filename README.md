@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
+
+<p align="center">
+  A passionate Full-Stack & DevOps Engineer from India
+</p>
+
+---
+
+## 👉 About Me:
+
 
 <!--
 **sid978123/sid978123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning DevOps tools & Automation
+- 🤔 I’m currently in search of remote jobs and opportunities
+- 💬 Curious about making new things that makes me happy
+- ⚡ Fun fact: I love learning new Technologies 
 -->
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-572ab236a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iiesid)
